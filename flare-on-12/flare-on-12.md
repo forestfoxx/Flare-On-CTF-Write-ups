@@ -31,7 +31,7 @@ for j in range (256, 2476100):
 ```
 For five
 levels we need to have any combo with a product >= 256. The upper
-bound is 2476099 (that is, 19*19*19*19*19, related to location number
+bound is 2476099 (that is, 19x19x19x19x19, related to location number
 -1 and amount of levels).
 
 Running the script gets us the flag:
