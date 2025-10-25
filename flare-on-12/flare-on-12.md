@@ -702,7 +702,7 @@ then fixing the 150th binary which was broken by the 149th
 one, and running the 150th one to get the destined window
 with the dragon and a flag.
 
-
+<img width="1643" height="962" alt="dragon" src="https://github.com/user-attachments/assets/02c69e4e-92dc-4591-a2cb-3d8778d65133" />
 
 **Challenge 5 – “ntfsm”:**
 
